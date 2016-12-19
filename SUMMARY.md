@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [定义](chapter1.md)
-* [特点](特点.md)
+* [大数据定义](chapter1.md)
+* [大数据特点](特点.md)
 * [生态系统](生态系统.md)
 * [应用场景](应用.md)
     * [互联网](互联网.md)
